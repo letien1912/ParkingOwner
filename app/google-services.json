@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "39714352149",
+    "firebase_url": "https://parkingowner-1b942.firebaseio.com",
+    "project_id": "parkingowner-1b942",
+    "storage_bucket": "parkingowner-1b942.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:39714352149:android:9a7b9a3df4184830",
+        "android_client_info": {
+          "package_name": "parkingowner.iuh.parkingreservation.com.parkingowner"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "39714352149-qrhi9p31ceo51bnv23gu5bvmt6gkqmjn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBqBfOhS3HWylgDCmANnKGo-kWomgLnlis"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
